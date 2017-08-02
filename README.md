@@ -6,23 +6,27 @@ Example:
 Number of the players: 4
 ---------------------------------------------
 The role of the Players:
-----------------------
+
 Player0: Dealer   
-----------------------
+        
 Player1: SmallBlind   
-----------------------
+        
 Player2: BigBlind   
-----------------------
+        
 Player3: NorlPlayer
----------------------------------------------
+        
 ----Delt 2 hole cards to each player!!----
+----------------------
     All players got their cards in hand!
 
 ---------Burn one before Pre-Flop-------------
+----------------------
              Burned!
 
 ----------------Pre-Flop---------------------
+----------------------
 Community Cards on Board:
+----------------------
 9 of Diamonds
 3 of Spades
 8 of Diamonds
