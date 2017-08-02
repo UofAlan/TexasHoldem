@@ -50,16 +50,16 @@ Community Cards on Board:
 2 of Hearts        
 3 of Diamonds        
         
-Player:Dealer, cardsInHand=[2 of Diamonds, 7 of Clubs]
+Player:Dealer, cardsInHand=[2 of Diamonds, 7 of Clubs]        
 Result: Two Pairs found! Larger pair:3 of Diamonds Small pair:2 of Diamonds
         
-Player:SmallBlind, cardsInHand=[3 of Clubs, 7 of Hearts]
+Player:SmallBlind, cardsInHand=[3 of Clubs, 7 of Hearts]        
 Result: Three of A Kind Found! 3:3 of Clubs
         
-Player:BigBlind, cardsInHand=[10 of Hearts, 5 of Hearts]
+Player:BigBlind, cardsInHand=[10 of Hearts, 5 of Hearts]        
 Result: Pair found! pair:3 of Diamonds
         
-Player:NorlPlayer, cardsInHand=[King of Diamonds, King of Hearts]
+Player:NorlPlayer, cardsInHand=[King of Diamonds, King of Hearts]        
 Result: Two Pairs found! Larger pair:King of Diamonds Small pair:3 of Diamonds
         
 ----------------the Winner---------------------
