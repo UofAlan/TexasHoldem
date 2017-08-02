@@ -35,20 +35,20 @@ Community Cards on Board:
         
 Community Cards on Board:
 ----------------------
-9 of Diamonds
-3 of Spades
-8 of Diamonds
-2 of Hearts
+9 of Diamonds        
+3 of Spades        
+8 of Diamonds        
+2 of Hearts        
 
 ----------------the River---------------------
         
 Community Cards on Board:
 ----------------------
-9 of Diamonds
-3 of Spades
-8 of Diamonds
-2 of Hearts
-3 of Diamonds
+9 of Diamonds        
+3 of Spades        
+8 of Diamonds        
+2 of Hearts        
+3 of Diamonds        
         
 Player:Dealer, cardsInHand=[2 of Diamonds, 7 of Clubs]
 Result: Two Pairs found! Larger pair:3 of Diamonds Small pair:2 of Diamonds
