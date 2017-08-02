@@ -1,6 +1,7 @@
 # TexasHoldem
-scrach
+----------------------
 implentation of Texas Hold'em Poker
+----------------------
 Example:
 Number of the players: 4
 ---------------------------------------------
