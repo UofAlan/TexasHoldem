@@ -6,7 +6,14 @@ Example:
 Number of the players: 4
 ---------------------------------------------
 The role of the Players:
-Player0: Dealer   Player1: SmallBlind   Player2: BigBlind   Player3: NorlPlayer
+----------------------
+Player0: Dealer   
+----------------------
+Player1: SmallBlind   
+----------------------
+Player2: BigBlind   
+----------------------
+Player3: NorlPlayer
 ---------------------------------------------
 ----Delt 2 hole cards to each player!!----
     All players got their cards in hand!
